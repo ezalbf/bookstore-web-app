@@ -1,0 +1,47 @@
+[
+    {
+        "id": "978-0385474542",
+        "name": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "category": "African Literature",
+        "price": 12.99,
+        "description": "A classic narrative about Africa's cataclysmic encounter with Europe as it establishes a colonial presence on the continent.",
+        "image": "https://m.media-amazon.com/images/I/91NtvTU0xEL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "978-0735224292",
+        "name": "Homegoing",
+        "author": "Yaa Gyasi",
+        "category": "Historical Fiction",
+        "price": 14.50,
+        "description": "A novel spanning three hundred years in Ghana and following the lives of two half-sisters and their descendants through eight generations.",
+        "image": "https://m.media-amazon.com/images/I/611jO5W91KL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "978-1594632389",
+        "name": "Americanah",
+        "author": "Chimamanda Ngozi Adichie",
+        "category": "Contemporary Fiction",
+        "price": 13.75,
+        "description": "A story of love and race centered around a young man and woman from Nigeria who face difficult choices and challenges in the countries they come to call home.",
+        "image": "https://m.media-amazon.com/images/I/61FWoa4q3sL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "978-0143126911",
+        "name": "The-Fishermen",
+        "author": "Chigozie Obioma",
+        "category": "Contemporary Fiction",
+        "price": 11.99,
+        "description": "In a small town in western Nigeria, four young brothers—the two oldest, sixteen and fifteen—use their strict father's absence from home to go fishing at a forbidden river.",
+        "image": "https://m.media-amazon.com/images/I/81FHMon+nGL._UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": "978-1594486280",
+        "name": "Ghana Must Go",
+        "author": "Taiye Selasi",
+        "category": "Family Saga",
+        "price": 15.00,
+        "description": "A powerful and moving story of a family of six, pulled apart by sorrow and circumstance, and the beautiful, painful reconciliation that brings them back together.",
+        "image": "https://m.media-amazon.com/images/I/81Cq8LdgFTL._UF1000,1000_QL80_.jpg"
+    }
+]
