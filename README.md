@@ -7,3 +7,6 @@ Use the following credentials:
 
 Username: admin
 Password: password
+
+After entry, you'll be directed to the dashboard:
+/admin/dashboard
